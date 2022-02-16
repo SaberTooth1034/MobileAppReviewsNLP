@@ -1,0 +1,315 @@
+above-board
+account
+accountable
+accountability
+acquittance
+advertisement
+allowance
+amends
+amercement
+apparent
+artful
+articulate
+artless
+ask for permission
+astute
+authentic
+auto-ticking checkboxes
+auto-deduction
+backbiting
+bank account
+beguiling
+biased
+blackmail
+blocked
+bluffing
+bona fide
+candid
+can't tell you
+careful
+cancel subscription 
+charges
+cheating
+claim
+clandestine
+clarify
+clear-cut
+cloudy
+compensation
+complicated
+concealed
+conned
+con game
+confusing questions
+conscientious
+consent
+consolation
+compliance
+complicit
+corrupt
+cost
+counterfeit
+crafty
+credit card
+crook
+crooked
+crooked deal
+cunning
+damages
+data
+deceit
+deceitful
+deceiving
+decent
+deception
+deceptive
+decision reversal
+define
+deleting accounts
+delusive
+delusory
+design manipulation
+designing
+devious
+difficult
+direct
+disadvantage
+discharge
+discipline
+disclaimer
+disclose
+Disclosure
+discount
+discreet
+disguised ads
+dishonest
+disingenuous
+disreputable
+distinct
+distinguishable
+double-cross
+double-crossing
+double-dealing
+dues
+duplicitous
+easily seen
+elusive
+encrypted
+equitable
+equivocal
+ethical
+evident
+explain need permission
+explain why you need permission
+explicit
+extortion
+fair
+fair and square
+fallacious
+fee
+fine
+flimflam
+forfeit
+forfeiture
+forthright
+foxy
+frank
+fraud
+fraudulent
+free trail
+free-trail
+furtive
+geolocation
+genuine
+guarantee
+guileful
+guileless
+handicap
+hard
+hidden charges
+hidden ads
+high-minded
+hoax
+honest
+honesty
+honorable
+hoodwinking
+hustle
+hypocritical
+illusion
+illusory
+impartial
+impose upon
+impostors
+indirect
+information
+ingenuous
+insidious
+insincere
+involved
+irresponsible
+just
+justify
+kickback
+knavish
+law-abiding
+lay it on the line
+lead on
+like it is
+listening
+location
+lying
+malware
+manifest
+manipulative
+marketing email
+mendacious
+misleading
+money back
+mortification
+mulct
+no lie
+notice
+on the level
+on the up and up
+obscure
+opaque
+open
+outright
+partial
+payment
+penalty
+perfidious
+perspicuous
+phishing
+plain-spoken
+play joke on
+policy
+prejudiced
+premium
+price
+price gouging
+pricing
+privacy notice
+privacy statement
+profit gouging
+profiteering
+proper
+pull fast one
+push notifications
+questionable
+racket
+reason
+rebate
+recognisable
+recreant
+refund
+reimbursement
+reinstate
+register
+reliable
+remuneration
+repayment
+reputable
+restitution
+retribution
+return
+right to be forgotten
+rip-off
+rip off
+roguish
+satisfaction
+scrupulous
+security
+secret
+self-explanatory
+selling information
+settlement
+shady
+shady deal
+shakedown
+sham
+shame
+share
+shell game
+shifty
+sincere
+sinister
+slick
+slippery
+sly
+sneaking
+sneaky
+snooping
+spam email
+spam mail
+spell out
+steal
+stealthy
+sting
+straight
+straightforward
+subscription
+subscription without permission
+subtle
+sucker game
+suspend
+swindling
+take advantage of
+take for ride
+tracking
+traitorous
+transparency
+transparent
+treacherous
+tricky
+trial
+trustworthy
+trusty
+two-faced
+two-timing
+unambiguous
+unclear
+unctuous
+underhand
+underhanded
+undisguised
+unethical
+unequivocal
+unexplained
+unexplainable
+unfair
+unfeigned
+unfortunately
+unintelligible
+unjust
+unjustifiable
+unmistakable
+unprincipled
+unreal
+unreasonable
+unregister
+unreliable
+unscrupulous
+unsophisticated
+unsubscribe
+unsuitable
+untrustworthy
+untruthful
+upfront
+upright
+user preferences
+user settings
+vague
+veracious
+victim
+villainous
+virtuous
+visible
+warn
+warning
+warranty
+watching
+what you see is what you get
+wily
+without notice
